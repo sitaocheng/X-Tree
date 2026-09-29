@@ -4,7 +4,7 @@
 
 <sup>1</sup>University of Waterloo · <sup>2</sup>Duke University · <sup>3</sup>National University of Singapore
 
-[**Project page**](https://sitaocheng.github.io/xtree/) · [**Paper**](#) · [**Blog**](https://sitaocheng.github.io/xtree/blog.html)
+[**Project page**](https://sitaocheng.github.io/xtree/) · [**Paper**](https://arxiv.org/abs/2609.32993) · [**Blog**](https://sitaocheng.github.io/xtree/blog.html)
 
 > **Status: project in progress.** The code, mined trees and training recipes will be released in this repository. Watch the repository to be notified.
 
@@ -28,9 +28,9 @@ Experiments cover WebArena, ScienceWorld and WebShop at 1.5B, 3B and 7B.
 
 ```bibtex
 @article{cheng2026xtree,
-  title   = {X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization},
+  title   = {{X-Tree}: Tokenizing Reusable Experience for Efficient Agent Generalization},
   author  = {Cheng, Sitao and Yin, Xunjian and Sun, Zhiyuan and Li, Yuxuan and Zhou, Ruiwen and Jian, Xiangru and Zhong, Victor},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2609.32993},
   year    = {2026}
 }
 ```
