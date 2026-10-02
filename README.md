@@ -4,7 +4,7 @@
 
 <sup>1</sup>University of Waterloo · <sup>2</sup>Duke University · <sup>3</sup>National University of Singapore
 
-[**Project page**](https://sitaocheng.github.io/xtree/) · [**Paper**](https://arxiv.org/abs/2609.32993) · [**Blog**](https://sitaocheng.github.io/xtree/blog.html)
+[**Project page**](https://sitaocheng.github.io/xtree/) · [**Paper**](https://arxiv.org/abs/2609.32993) · [**Hugging Face**](https://huggingface.co/papers/2609.32993) · [**Blog**](https://sitaocheng.github.io/xtree/blog.html)
 
 > **Status: project in progress.** The code, mined trees and training recipes will be released in this repository. Watch the repository to be notified.
 
